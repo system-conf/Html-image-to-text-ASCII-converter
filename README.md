@@ -28,10 +28,6 @@ This is a simple web application that converts images to ASCII art. You can uplo
 ![Screenshot](Screenshot_1.png)
 ![Screenshot](Screenshot_2.png)
 
-## Demo
-
-You can try the live demo [here](https://example.com/demo).
-
 ## License
 
 This project is licensed under the MIT License.
