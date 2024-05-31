@@ -25,7 +25,8 @@ This is a simple web application that converts images to ASCII art. You can uplo
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_2.png)
 
 ## Demo
 
